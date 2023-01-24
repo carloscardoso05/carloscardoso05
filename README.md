@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [LinkedIn](https://linkedin.com/in/carlos-vitor-cardoso/)
+  <a href="https://linkedin.com/in/carlos-vitor-cardoso/">
+    LinkedIn
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
