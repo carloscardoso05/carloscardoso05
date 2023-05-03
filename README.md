@@ -4,7 +4,7 @@
 
 Already have projects with VueJs framework
 
-Currently getting deeper into Python
+Currently getting deeper into Python and Java
 
 ### 📚 [Access my portfolio](https://carloscardoso05.github.io/)
 
