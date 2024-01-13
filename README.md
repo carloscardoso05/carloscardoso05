@@ -1,10 +1,9 @@
-# Hello! 👋
+## Carlos Vitor Cardoso
+### Estudante de Ciência da Computação - UFPA
 
-## I'm Carlos Cardoso, student of Computer Science at the Federal University of Pará (UFPA)
+Tenho projetos com Flutter, VueJs e C# para Unity
 
-Already have projects with VueJs framework
-
-Currently getting deeper into Python and Java
+Atualmente me aprofundando em Java
 
 ### 📚 [Access my portfolio](https://carloscardoso05.github.io/)
 
