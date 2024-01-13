@@ -7,4 +7,4 @@ Atualmente me aprofundando em Java
 
 ### 📚 [Access my portfolio](https://carloscardoso05.github.io/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-vitor-cardoso/)](https://www.linkedin.com/in/carlos-vitor-cardoso/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscardoso05/)](https://www.linkedin.com/in/carloscardoso05/)
