@@ -45,12 +45,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas de Carlos no GitHub](https://github-readme-stats.vercel.app/api?username=carloscardoso05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/carloscardoso05)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscardoso05&layout=compact&langs_count=7&theme=dracula)](https://github.com/carloscardoso05)
-
 ## 📫 Onde me encontrar
 
 <p>
