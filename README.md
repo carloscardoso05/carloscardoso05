@@ -1,7 +1,7 @@
 # Olá, eu sou o Carlos! 👋
 
 ## 👨‍💻 Sobre Mim
-Estudante de Ciência da Computação na UFPA e desenvolvedor de software com experiência na construção de soluções completas. Minhas habilidades abrangem o desenvolvimento de APIs robustas com Java/Spring Boot e NestJS, aplicações mobile multiplataforma com Flutter e interfaces web interativas com Angular e VueJs. Sou movido pelo desafio de transformar ideias em produtos digitais eficientes e de alto impacto.
+Estudante de Ciência da Computação na UFPA e desenvolvedor de software com experiência na construção de soluções completas. Minhas habilidades abrangem o desenvolvimento de APIs robustas com Java/Spring Boot e NestJS, aplicações mobile multiplataforma com Flutter e interfaces web interativas com Angular e VueJs.
 
 Meu foco é na criação de aplicações que não apenas atendam aos requisitos, mas que sejam também escaláveis, performáticas e de fácil manutenção. Para alcançar esse objetivo, aplico boas práticas de engenharia de software em todo o ciclo de desenvolvimento, incluindo a automação de testes com ferramentas como JUnit e Jest, pois acredito que a qualidade não é uma etapa, mas a base que sustenta um software de excelência.
 
